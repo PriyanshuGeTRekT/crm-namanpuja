@@ -1,5 +1,10 @@
 # Atomic CRM
 
+> 🚀 **New to the Naman Puja project?** Read the full setup guide:
+> **[ONBOARDING.md](https://github.com/PriyanshuGeTRekT/backend-namanpuja/blob/main/ONBOARDING.md)**
+> (install everything → run the whole stack with `docker compose up`). This CRM runs on
+> http://localhost:5174 and connects to the same live Supabase as the rest of the project.
+
 A full-featured CRM built with React, shadcn-admin-kit, and Supabase.
 
 <https://github.com/user-attachments/assets/0d7554b5-49ef-41c6-bcc9-a76214fc5c99>
